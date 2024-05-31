@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ArenaGame
+﻿namespace ArenaGame
 {
     public abstract class Hero : IHero
     {
         protected Random random = new Random();
         public string Name { get; private set; }
-        public double Health { get; private set; }
+        public double Health { get; protected set; }
         public double Armor { get; private set; }
         public double Strength { get; private set; }
         public IWeapon Weapon { get; private set; }
@@ -25,15 +19,12 @@ namespace ArenaGame
         public Hero(string name, double armor, double strength, IWeapon weapon)
         {
             Health = 100;
-
             Name = name;
             Armor = armor;
             Strength = strength;
             Weapon = weapon;
         }
 
-
-        // returns actual damage
         public virtual double Attack()
         {
             double totalDamage = Strength + Weapon.AttackDamage;
@@ -55,7 +46,7 @@ namespace ArenaGame
 
         public override string ToString()
         {
-            return $"{Name} with health {Math.Round(Health,2)}";
+            return $"{Name} with health {Math.Round(Health, 2)}";
         }
     }
 }

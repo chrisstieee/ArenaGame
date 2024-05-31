@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\ZIVKO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
+      "projectUniqueName": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ArenaGame\\ArenaGame.csproj",
       "projectName": "ArenaGame",
-      "projectPath": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ArenaGame\\obj\\",
+      "projectPath": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ArenaGame\\ArenaGame.csproj",
+      "packagesPath": "C:\\Users\\ZIVKO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ArenaGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZIVKO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

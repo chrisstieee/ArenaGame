@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormArenaGame
-build_property.ProjectDir = C:\Users\user\Downloads\AreanGame\AreanGame\WinFormArenaGame\
+build_property.ProjectDir = C:\Users\ZIVKO\Desktop\ArenaGameKrisi\WinFormArenaGame\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

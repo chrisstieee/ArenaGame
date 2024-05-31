@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZIVKO\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|solutionrelative:consolearenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\assassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\assassin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\mace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\mace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\winformarenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E37202B-D4F5-4AFD-A0B7-7AA00E367317}|WinFormArenaGame\\WinFormArenaGame.csproj|solutionrelative:winformarenagame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\dagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\heroes\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2399875-B32C-4B7E-BF4E-58BE8BF6FFCB}|ArenaGame\\ArenaGame.csproj|solutionrelative:arenagame\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|c:\\users\\zivko\\desktop\\new folder\\consolearenagame\\consolearenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|ConsoleArenaGame\\ConsoleArenaGame.csproj|solutionrelative:consolearenagame\\consolearenagame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Shield.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Shield.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Shield.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Shield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:14:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mace.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Mace.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Mace.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Mace.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Mace.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:14:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dagger.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Dagger.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Dagger.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Dagger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:13:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Bow.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Bow.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Bow.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Bow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:11:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Axe.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Axe.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Axe.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Axe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:13:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\GameEngine.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\GameEngine.cs",
+              "RelativeToolTip": "ArenaGame\\GameEngine.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:00:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Paladin.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Paladin.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Paladin.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Paladin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:10:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Druid.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Druid.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Druid.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Druid.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Druid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:04:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assassin.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Assassin.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Assassin.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Assassin.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Assassin.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:01:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ConsoleArenaGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleArenaGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ConsoleArenaGame\\Program.cs",
+              "RelativeToolTip": "ConsoleArenaGame\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:16:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Staff.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Staff.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Staff.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:15:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\WinFormArenaGame\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormArenaGame\\Program.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\WinFormArenaGame\\Program.cs",
+              "RelativeToolTip": "WinFormArenaGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:16:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Weapons\\Sword.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Weapons\\Sword.cs",
+              "RelativeToolTip": "ArenaGame\\Weapons\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:10:53.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\IWeapon.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\IWeapon.cs",
+              "RelativeToolTip": "ArenaGame\\IWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:01:09.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Rogue.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Rogue.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Rogue.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Rogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:08:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Archer.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Archer.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Archer.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Archer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:05:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\IHero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\IHero.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\IHero.cs",
+              "RelativeToolTip": "ArenaGame\\IHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:00:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Heroes\\Knight.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Heroes\\Knight.cs",
+              "RelativeToolTip": "ArenaGame\\Heroes\\Knight.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:59:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Hero.cs",
+              "RelativeDocumentMoniker": "ArenaGame\\Hero.cs",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ArenaGame\\Hero.cs",
+              "RelativeToolTip": "ArenaGame\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:57:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsoleArenaGame",
+              "DocumentMoniker": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "RelativeDocumentMoniker": "ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "ToolTip": "C:\\Users\\ZIVKO\\Desktop\\New folder\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "RelativeToolTip": "ConsoleArenaGame\\ConsoleArenaGame.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T17:52:19.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,29 +6,28 @@ using System.Threading.Tasks;
 
 namespace ArenaGame.Weapons
 {
-    public class NecromanceRing : IWeapon
+    public class Staff : IWeapon
     {
         public string Name { get; set; }
-
         public double AttackDamage { get; private set; }
-
         public double BlockingPower { get; private set; }
-        public NecromanceRing(string name)
+
+        public Staff(string name)
         {
             Name = name;
-            AttackDamage = 10 + CallForTheDead();
+            AttackDamage = 12;
             BlockingPower = 12;
         }
 
-        private double CallForTheDead()
+        public double ExecuteSpecialAbility()
         {
             Random random = new Random();
-            double multiplier = 0;
-            if (random.NextDouble() < 0.2)
+            double probability = random.NextDouble();
+            if (probability < 0.2)
             {
-                multiplier = 20;
+                BlockingPower *= 1.5;
             }
-            return multiplier;
+            return AttackDamage;
         }
     }
 }

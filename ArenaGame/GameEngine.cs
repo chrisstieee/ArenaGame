@@ -33,7 +33,8 @@ namespace ArenaGame
             {
                 attacker = HeroA;
                 defender = HeroB;
-            } else
+            }
+            else
             {
                 attacker = HeroB;
                 defender = HeroA;
@@ -46,21 +47,28 @@ namespace ArenaGame
 
                 if (NotificationsCallBack != null)
                 {
-
                     NotificationsCallBack(new NotificationArgs()
                     {
                         Attacker = attacker,
                         Defender = defender,
                         Attack = attack,
                         Damage = actualDamage
-                    }); 
+                    });
+
+                    if (actualDamage < 0)
+                    {
+                        double healAmount = Math.Abs(actualDamage);
+                        Console.WriteLine($"{defender.Name} healed themselves for {Math.Round(healAmount, 2)} health points.");
+                    }
                 }
 
                 Hero tempHero = attacker;
                 attacker = defender;
                 defender = tempHero;
             }
+
             Winner = defender;
         }
+
     }
 }

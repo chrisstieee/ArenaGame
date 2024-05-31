@@ -34,3 +34,22 @@ C:\Users\user\Downloads\AreanGame\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\re
 C:\Users\user\Downloads\AreanGame\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.pdb
 C:\Users\user\Downloads\AreanGame\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.genruntimeconfig.cache
 C:\Users\user\Downloads\AreanGame\AreanGame\ConsoleArenaGame\obj\Debug\net6.0\ref\ConsoleArenaGame.dll
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.exe
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.deps.json
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.runtimeconfig.json
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.dll
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ConsoleArenaGame.pdb
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ArenaGame.dll
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\bin\Debug\net6.0\ArenaGame.pdb
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.csproj.AssemblyReference.cache
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.AssemblyInfoInputs.cache
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.AssemblyInfo.cs
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.sourcelink.json
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleA.0CC297AC.Up2Date
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.dll
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\refint\ConsoleArenaGame.dll
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.pdb
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ConsoleArenaGame.genruntimeconfig.cache
+C:\Users\ZIVKO\Desktop\New folder\ConsoleArenaGame\obj\Debug\net6.0\ref\ConsoleArenaGame.dll

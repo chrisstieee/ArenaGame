@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\ZIVKO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+      "projectUniqueName": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
       "projectName": "ConsoleArenaGame",
-      "projectPath": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ConsoleArenaGame\\obj\\",
+      "projectPath": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+      "packagesPath": "C:\\Users\\ZIVKO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ConsoleArenaGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ZIVKO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj"
+            "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ArenaGame\\ArenaGame.csproj": {
+              "projectPath": "C:\\Users\\ZIVKO\\Desktop\\ArenaGameKrisi\\ArenaGame\\ArenaGame.csproj"
             }
           }
         }
@@ -63,6 +63,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -84,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
